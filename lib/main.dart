@@ -1,4 +1,5 @@
 import 'package:exam_1/view/screen/home.dart';
+import 'package:exam_1/view/screen/sec1.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -16,6 +17,7 @@ class MyApp extends StatelessWidget {
       initialRoute: '/',
       routes:{
         '/':(context) => Homepage(),
+        '/sec':(context) => Secscreen(),
       },
     );
   }

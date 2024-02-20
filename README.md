@@ -1,6 +1,12 @@
 # exam_1
 
 A new Flutter project.
+![Screenshot_20240220_121354](https://github.com/Jaydeepsharma93/exam_1/assets/143181361/ff14f24b-b309-4285-96a8-05e143365304)
+![Screenshot_20240220_121407](https://github.com/Jaydeepsharma93/exam_1/assets/143181361/bae6d4a8-caf0-4c91-8ab0-d57112b495b5)
+![Screenshot_20240220_122757](https://github.com/Jaydeepsharma93/exam_1/assets/143181361/1fadde0c-96ea-43f1-87e2-cac82f135546)
+img(src="")
+
+
 
 ## Getting Started
 
